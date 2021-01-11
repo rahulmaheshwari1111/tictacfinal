@@ -1,0 +1,37 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Codystar&family=Monofett&family=Unica+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Unica+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Codystar&family=Unica+One&display=swap');
+
+.main{
+    background-color: rgb(180, 123, 233);
+    
+}
+#TITLE{
+    font-family: 'Monofett', cursive;
+    font-size: 65px;
+    background-color: whitesmoke;
+}
+#player{
+    font-family: 'Unica One', cursive;
+}
+td{
+    width:100px;
+    height: 100px;
+   background: rgb(133, 107, 107);
+   font-size: 40px;
+   text-align: center;
+   border-radius: 10px ;
+   font-family: 'Unica One', cursive;   
+   
+}
+table{
+    margin: 20px auto;
+    border-radius: 10px;
+    color: white;
+}
+body{
+    background:white;
+}
